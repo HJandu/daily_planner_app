@@ -3,7 +3,7 @@ body {
   font-size: 16px;
   line-height: 1;
 }
-
+/* user types in */
 textarea {
   background: transparent;
   border: none;
@@ -26,6 +26,7 @@ header {
   white-space: pre-wrap;
 }
 
+/* rows for timeblock */
 .time-block {
   text-align: center;
   border-radius: 15px;
