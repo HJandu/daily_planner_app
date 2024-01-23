@@ -32,7 +32,8 @@ The Work Day Schedulaer app:
   <img width="400" height="250" src="https://github.com/HJandu/daily_planner_app/blob/main/images/reset_button.jpg">
   <img width="400" height="250" src="https://github.com/HJandu/daily_planner_app/blob/main/images/alert_box.jpg">
 
+## <ins>Deployment</ins>
 
-Click [here]() to access the Work Day Scheduler. 
+Click [here](https://hjandu.github.io/daily_planner_app/) to access the Work Day Scheduler. 
 
 &copy;Hardip Jandu
