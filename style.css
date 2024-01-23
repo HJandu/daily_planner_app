@@ -63,6 +63,8 @@ header {
   border-left: 1px solid black;
   border-top-right-radius: 15px;
   border-bottom-right-radius: 15px;
+  height: 80px;
+  text-align: center;
   background-color: #06aed5;
   color: white;
 }
@@ -71,3 +73,5 @@ header {
   font-size: 20px;
   transition: all 0.3s ease-in-out;
 }
+
+
