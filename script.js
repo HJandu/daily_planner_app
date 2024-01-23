@@ -33,9 +33,12 @@ $(".time-block").each(function () {
 
 // clear past events
 $("#clear").on("click", function () {
-    alert("All events have been cleared!");
-    localStorage.clear();
-    $(".description").val("");
+    if (confirm("Are you sure you want to clear all events?")) {
+        localStorage.clear();
+        $(".description").val("");
+    } else {
+        return;
+    }
 
 });
 
