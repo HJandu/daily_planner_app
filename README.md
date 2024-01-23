@@ -22,8 +22,17 @@ The Work Day Schedulaer app:
 
 * Allows a user to enter an event when they click a timeblock.
 
-* Saves the event in their local storage, when the save button is clicked in that timeblock.
+* Saves the event in their local storage, when the save button is clicked in that timeblock. <br>
+  <img width="400" height="250" src="https://github.com/HJandu/daily_planner_app/blob/main/images/console_1.jpg"> <img width="400" height="250" src="https://github.com/HJandu/daily_planner_app/blob/main/images/console_2.jpg">
+  <br>
 
 * Persists events between refreshes of a page.
   
-* A reset button is included to clear local storage each day.
+* A reset button is included to clear local storage each day. When the button is pressed, an alert message appears. <br>
+  <img width="400" height="250" src="https://github.com/HJandu/daily_planner_app/blob/main/images/reset_button.jpg">
+  <img width="400" height="250" src="https://github.com/HJandu/daily_planner_app/blob/main/images/alert_box.jpg">
+
+
+Click [here]() to access the Work Day Scheduler. 
+
+&copy;Hardip Jandu
