@@ -8,6 +8,10 @@
 Being employed as a software developer, I have been asked to develop an app for employees with a busy schedule, who can add important events to a daily planner so that they can manage their time effectively. 
  
 ## <ins>About</ins>
+<p align="center">
+  <img width="100%" height="500" src="https://github.com/HJandu/daily_planner_app/blob/main/images/front_screen.jpg">
+</p>
+
 The Work Day Schedulaer app:
 
 * Displays the current day at the top of the calendar when a user opens the planner.
